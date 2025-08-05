@@ -35,6 +35,5 @@ This project addresses the need for a unified view of sales and supply chain per
 
 ## Conclusion
 This analysis provides actionable insights into sales performance and consumer behavior within the FMCG sector. By leveraging Excel dashboards, businesses can make data-backed decisions to improve marketing, optimize inventory, and boost profitability.
-[Sales Dashboard](#)
 
----
+ ![View Dashboard]
